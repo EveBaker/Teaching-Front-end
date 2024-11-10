@@ -1,0 +1,6 @@
+<br/>Create your first HTML file 0-index.html with:
+<br/>
+<br/>Add the doctype on the first line (without any comment)
+<br/>After the doctype, open and close a html tag
+<br/>Add the language tag, specify English for ISO language code and add the direction tag (ltr or rtl) on the html tag.
+<br/>Open your file in your browser (the page should be blank, use live server extention)
